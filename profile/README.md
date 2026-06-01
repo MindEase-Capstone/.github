@@ -30,7 +30,7 @@ Banyak individu saat ini lebih merasa nyaman mencurahkan isi hati kepada AI diba
 *   **Front-End:** ReactJS, Vite (Module Bundler), Tailwind CSS, Axios/Fetch (Networking Calls).
 *   **Back-End & Database:** Node.js (Express.js) & PostgreSQL (RESTful API terotomatisasi).
 *   **Machine Learning / AI:** Python, TensorFlow Functional API (Multi-Output Learning), Pre-trained Transformers.
-*   **Deployment & Hosting:** Vercel, Neon DB, Streamlit Cloud.
+*   **Deployment & Hosting:** Vercel, Render, Supabase.
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- LOGO PROJECT (Silakan ganti URL image di bawah dengan logo MindEase asli kalian) -->
-<img src="https://via.placeholder.com/800x250.png?text=MINDEASE" alt="MindEase Logo" width="600">
+<!-- LOGO PROJECT -->
+<img src="profile/mindease_logo.png" alt="MindEase Logo" width="600">
 
 # 🧠 MindEase: Teman Pulih di Setiap Langkahmu 🌿
 ### *Healthy Lives & Well-being — Capstone Project Coding Camp 2026 powered by DBS Foundation*

@@ -36,7 +36,7 @@ Banyak individu saat ini lebih merasa nyaman mencurahkan isi hati kepada AI diba
 ### 🔗 Tautan Model ML & Deployment
 * **Live Website (Frontend):** https://mindease-alpha-six.vercel.app/
 * **API Endpoint (Backend):** https://be-mindease.onrender.com
-* **Tautan Model ML:** [Masukkan Link Drive / HuggingFace Model .h5 / .pkl di sini jika ada]
+* **Tautan Model ML:** https://drive.google.com/drive/folders/1kNdR0dBo5xUUQ0moTnKKAOY_2sGM-Inu?usp=sharing
 
 ---
 
